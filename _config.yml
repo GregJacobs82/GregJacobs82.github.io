@@ -9,7 +9,9 @@ name: Gregory Jacobs
 description: Web Developer from Charleston, SC
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+# avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://raw.githubusercontent.com/GregJacobs82/GregJacobs82.github.io/tree/master/images/gregory-jacobs-charleston-sc.png
+#avatar: https://avatars2.githubusercontent.com/u/10404159?s=460&v=4
 
 #
 # Flags below are optional
