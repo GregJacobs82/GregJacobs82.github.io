@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="508c745e-802e-4e23-a068-ba0b2a0bb797" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.md" afterPath="$PROJECT_DIR$/about.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.png" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -132,6 +130,11 @@
               <item name="GregJacobs82.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="GregJacobs82.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="GregJacobs82.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GregJacobs82.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -146,6 +149,14 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -175,7 +186,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4341000" />
+    <option name="totallyTimeSpent" value="4495000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2965" y="-178" width="1275" height="1417" extended-state="0" />
@@ -343,6 +354,11 @@
           </first_editor>
           <second_editor />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
