@@ -40,15 +40,15 @@ Charleston, SC
   - magento
   - sql
 
-####### Specialties: Adobe Photoshop, Adobe Illustrator, Sketch, Adobe Experience Design, Adobe Premiere, PHPStorm, Adobe InDesign, Adobe Animate (Flash), Adobe Fireworks, Adobe Soundbooth, Adobe After Effects, AutoCAD Architectural Desktop, Google Sketchup Pro, Cinema 4D, 3D Studio Max, Microsoft Visual Basic, HTML &amp; Javascript, Quark, Macromedia Director MX
+###### Specialties: Adobe Photoshop, Adobe Illustrator, Sketch, Adobe Experience Design, Adobe Premiere, PHPStorm, Adobe InDesign, Adobe Animate (Flash), Adobe Fireworks, Adobe Soundbooth, Adobe After Effects, AutoCAD Architectural Desktop, Google Sketchup Pro, Cinema 4D, 3D Studio Max, Microsoft Visual Basic, HTML &amp; Javascript, Quark, Macromedia Director MX
 
 ---
 
-## Experience
+# Experience
 
-#### UI / UX Designer &amp; Front End Developer at MassageBook
+### UI / UX Designer &amp; Front End Developer at MassageBook
 
-###### January 2015 - Present
+#### January 2015 - Present
 
 User Interface (UI) and User Experience (UX) Designer for web application development company, 2Book, Inc.
 
@@ -80,15 +80,15 @@ UI / UX Designer:
 
 
 
-#### Website Designer &amp; Developer at GregoryJacobsDesigns.com
+### Website Designer &amp; Developer at GregoryJacobsDesigns.com
 
-###### July 2010 - Present
+#### July 2010 - Present
 
 Graphic Design, Web Design, 3D Architectural Design, Photography, Print Design, Interactive Design, Multimedia Specialist
 
-#### Chief Website Designer &amp; Account Manager at Freshley Media, Inc.
+### Chief Website Designer &amp; Account Manager at Freshley Media, Inc.
 
-###### June 2011 - January 2015 (3 years 8 months)
+#### June 2011 - January 2015 (3 years 8 months)
  
 Graphic Design:
 
@@ -132,41 +132,41 @@ Research design concepts and visual identities in the market to identify and app
 
 Designs, develops and deploys web-based applications using software tools. Lead development teams across multiple projects, enhancements and change requests.
 
-#### Web Developer &amp; IT Management at Truphonic Recording
+### Web Developer &amp; IT Management at Truphonic Recording
 
-###### 2011 - January 2015 (4 years 1 month)
+#### 2011 - January 2015 (4 years 1 month)
 
 Born and raised in Charleston, Gregory Jacobs is an avid music fan and live music junkie from way back. He really understands the craft and the personal dynamics of the independent recording artist. &quot;I love being part of the process. I&#39;m not just a fan... I&#39;m a supporter of original music. My job is helping artist&#39;s realize their musical goals at Truphonic.&quot;
 
-#### Graphic Designer at Philips Consumer Lifestyle
+### Graphic Designer at Philips Consumer Lifestyle
 
-###### October 2010 - May 2011 (8 months)
+#### October 2010 - May 2011 (8 months)
 
 Graphic Design, Packaging Design, Production Assistant
 
 Aided in the Graphic Design and Print Production department utilizing Adobe Illustrator, Photoshop, and InDesign to produce packaging materials and packaged mockups for consumer electronics and small appliance products sold at large consumer lifestyle retail stores.
 
-#### Graphic Design / 3D Architectural Design / CAD Technician
+### Graphic Design / 3D Architectural Design / CAD Technician
 
-###### October 2008 - July 2009 (10 months)
+#### October 2008 - July 2009 (10 months)
 
 Greatly enhanced my experience in communication, team skills, stressful atmosphere, pressured deadlines, and creative criticism. Also, mastered 3D Rendering skills for photo-realistic environments.
 
-#### Graphic Design / CAD Technician
+### Graphic Design / CAD Technician
 
-###### May 2007 - October 2008 (1 year 6 months)
+#### May 2007 - October 2008 (1 year 6 months)
 
 Developed AutoCAD drawing skills as well as communication, team skills, stressful atmosphere, pressured deadlines. Also, enhanced 3D Rendering skills, 3D animation, and technical computer related skills.
 
-#### Graphic Design Intern
+### Graphic Design Intern
 
-###### April 2005 - September 2005 (6 months)
+#### April 2005 - September 2005 (6 months)
 
 Internship at 3D Environment Creation Studio creating 3D Environments using Speedtree RT CAD and various Adobe Programs. Also, developed communication skills &amp;amp; team skills for the work environment.
 
 ---
 
-## Education
+# Education
 
 1. University of South Carolina
     - Bachelor of Arts, Graphic Design &amp; Media Arts, 2001 - 2007
@@ -178,7 +178,7 @@ Internship at 3D Environment Creation Studio creating 3D Environments using Spee
 
 ---
 
-## Contact me
+# Contact me
 
 Email: [GregJacobz@me.com](mailto:GregJacobz@me.com)
 
