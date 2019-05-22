@@ -10,7 +10,7 @@ UI / UX Designer &amp; Front End Developer
 
 Charleston, SC
 
-[GregJacobz@me.com](mailto:GregJacobz@me.com)
+<a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
 ---
 
@@ -180,6 +180,6 @@ Internship at 3D Environment Creation Studio creating 3D Environments using Spee
 
 # Contact me
 
-Email: [GregJacobz@me.com](mailto:GregJacobz@me.com)
+Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
-LinkedIn: [LinkedIn.com/GregoryJacobsDesigns](http://www.linkedin.com/in/gregoryjacobsdesigns)
+LinkedIn: <a href="https://www.linkedin.com/in/{{ site.footer-links.linkedin }}" target="_blank">{{ site.footer-links.linkedin }}</a>

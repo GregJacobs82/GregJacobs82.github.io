@@ -4,6 +4,7 @@
 
 # Name of your site (displayed in the header)
 name: Gregory Jacobs
+email: GregoryJacobsDesigns@gmail.com
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Charleston, SC
@@ -20,7 +21,7 @@ avatar: https://raw.githubusercontent.com/GregJacobs82/GregJacobs82.github.io/ma
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: GregJacobz@me.com
+  email: GregoryJacobsDesigns@gmail.com
   facebook: GregoryJacobsDesigns
   flickr:
   github: GregJacobs82
@@ -50,6 +51,9 @@ url: https://GregJacobs82.github.io
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: https://GregJacobs82.github.io
+
+# GREGS GITHUB
+github: https://github.com/gregjacobs82
 
 #
 # !! You don't need to change any of the configuration flags below !!
