@@ -11,3 +11,4 @@ package.json
 .idea
 .idea/*
 .idea/*.*
+.jekyll-cache
