@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-# Gregory Jacobs
+# Greg Jacobs
+
+<a href="{{ site.website.url }}" target="_blank">{{ site.website.text }}</a>
 
 UI / UX Designer &amp; Front End Developer
 
@@ -80,7 +82,7 @@ UI / UX Designer:
 
 
 
-### Website Designer &amp; Developer at GregoryJacobsDesigns.com
+### Website Designer &amp; Developer at GregJacobs.com
 
 #### July 2010 - Present
 
