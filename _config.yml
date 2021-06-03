@@ -35,7 +35,7 @@ footer-links:
   twitter: TheGregJacobs
   stackoverflow: users/7326737/greg # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: user/GregoryJacobsDesigns/videos # channel/<your_long_string> or user/<user-name>
-  googleplus: +GregoryJacobsDesigns # anything in your profile username that comes after plus.google.com/
+  googleplus: # +GregoryJacobsDesigns # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
